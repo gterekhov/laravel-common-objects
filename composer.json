@@ -1,5 +1,5 @@
 {
-  "name": "umbrellio/laravel-common-objects",
+  "name": "gterekhov/laravel-common-objects",
   "license": "MIT",
   "type": "library",
   "description": "Common objects for extending base Laravel functionality.",
